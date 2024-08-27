@@ -102,7 +102,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone (https://github.com/Appuyoges/YOGESWARAN-S_221501511)
+git clone (https://github.com/kirubashanka/kirubashankar_221501508_MAD )
 Navigate to the project directory:
 
 bash
